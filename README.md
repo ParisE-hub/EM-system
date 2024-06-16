@@ -53,3 +53,13 @@ git clone https://github.com/ParisE-hub/EM-system.git
 -Enter the ID of the employee you wish to delete
 
 -Click OK to delete the employee
+
+**SEARCH EMPLOYEES**
+
+-Click on "Search Employees"
+
+-Enter the search query (name, department or job title)
+
+-Records that matches the search query will be displayed.
+
+
